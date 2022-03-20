@@ -12,6 +12,7 @@ Welcome to Erin-AMOS's documentation!
    install
    reference
 
+.. torctree::
    :caption: API References:
    
    modules
