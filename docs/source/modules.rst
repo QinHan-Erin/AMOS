@@ -1,6 +1,8 @@
 auto_tensorize
 ==============
 
+hi!
+
 .. toctree::
    :maxdepth: 4
 
