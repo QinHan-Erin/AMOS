@@ -9,9 +9,11 @@ Welcome to Erin-AMOS's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   install
+   reference
 
    :caption: API References:
-   auto_tensorize
+   modules
 
 
 Indices and tables
