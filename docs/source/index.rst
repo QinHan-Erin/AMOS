@@ -8,10 +8,12 @@ Welcome to Erin-AMOS's documentation!
 
 .. toctree::
    :caption: Contents:
+   
    install
    reference
 
    :caption: API References:
+   
    modules
 
 
