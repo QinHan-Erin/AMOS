@@ -12,9 +12,10 @@ Welcome to Erin's documentation!
    install
    reference
 
-..    :caption: API References:
+.. toctree::
+   :caption: API References:
    
-..    amos/modules
+   amos/modules
 
 
 Indices and tables
