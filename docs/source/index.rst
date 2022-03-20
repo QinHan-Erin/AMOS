@@ -7,7 +7,6 @@ Welcome to Erin-AMOS's documentation!
 =====================================
 
 .. toctree::
-   :maxdepth: 2
    :caption: Contents:
    install
    reference
