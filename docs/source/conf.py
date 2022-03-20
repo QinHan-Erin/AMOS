@@ -17,6 +17,7 @@ curr_path = os.path.dirname(os.path.abspath(os.path.expanduser(__file__)))
 sys.path.insert(0, os.path.join(curr_path, "../../python"))
 sys.path.insert(0, os.path.join(curr_path, "../../python/tvm/auto_tensorize"))
 sys.path.insert(0, os.path.join(curr_path, "../../python/tvm"))
+autodoc_mock_imports = ["_tkinter"]
 
 # -- Project information -----------------------------------------------------
 
