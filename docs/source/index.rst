@@ -11,7 +11,7 @@ Welcome to Erin-AMOS's documentation!
    :caption: Contents:
 
    :caption: API References:
-   api/amos
+   auto_tensorize
 
 
 Indices and tables
