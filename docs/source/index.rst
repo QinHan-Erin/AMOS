@@ -12,6 +12,7 @@ Welcome to Erin's documentation!
    install
    reference
 
+.. toctree::
    :caption: API References:
    
    modules
