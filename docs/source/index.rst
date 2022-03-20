@@ -12,7 +12,6 @@ Welcome to Erin's documentation!
    install
    reference
 
-.. torctree::
    :caption: API References:
    
    modules
