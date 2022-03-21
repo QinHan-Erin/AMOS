@@ -12,7 +12,7 @@
 #
 import os
 import sys
-from tvm import auto_tensorize
+
 # sys.path.insert(0, os.path.abspath('.'))
 curr_path = os.path.dirname(os.path.abspath(os.path.expanduser(__file__)))
 sys.path.insert(0, os.path.join(curr_path, "../../python"))
@@ -30,6 +30,9 @@ author = 'Q_Erin'
 
 # The full version, including alpha/beta/rc tags
 release = 'v1'
+
+os.environ["TVM_BUILD_DOC"] = "1"
+from tvm import auto_tensorize
 
 
 # -- General configuration ---------------------------------------------------
